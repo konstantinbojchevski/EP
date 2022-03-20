@@ -1,0 +1,9 @@
+<h1 class="font-primary font-size-30 text-center m-4">ABOUT US</h1>
+<div class="container">
+    <p>&nbsp;&nbsp;&nbsp;&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac pretium ipsum. Donec quis mollis tellus. Quisque volutpat risus lorem, quis pulvinar ipsum volutpat at. Integer non scelerisque lorem, vel rhoncus risus. Sed convallis massa ante, sed luctus lacus vestibulum at. Proin laoreet tortor sed aliquam pellentesque. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nulla interdum porttitor velit, et porttitor nibh lobortis non. Nunc viverra volutpat lacus, sit amet laoreet felis scelerisque id. Nam sit amet aliquam nulla. Curabitur sapien velit, ultrices laoreet vehicula vel, feugiat vel erat. Nam a ligula leo. Suspendisse blandit tellus eget maximus consectetur. Maecenas luctus, nibh quis scelerisque vestibulum, diam magna scelerisque lacus, vitae convallis turpis turpis eget urna. Phasellus at scelerisque dolor.
+
+    Praesent ut fermentum nisl. Curabitur et diam semper, blandit odio eu, gravida justo. Sed a posuere felis, ut rhoncus dolor. Ut ultrices nulla massa, quis ornare leo maximus blandit. Pellentesque vel ligula elementum, malesuada turpis in, placerat mi. Maecenas scelerisque tortor et justo efficitur, ac tincidunt neque convallis. Ut quis semper magna, vel tincidunt nibh. Fusce sit amet magna metus. Fusce vitae mi egestas, placerat ipsum vitae, elementum elit. Nunc quis tortor nunc. Nam ipsum nisi, imperdiet at laoreet a, consequat dignissim elit. Fusce sollicitudin commodo porttitor. Donec eu nisl tempus, ornare ex at, venenatis ex. Nunc rutrum vel sem sed tristique. Nullam quis orci mattis, laoreet mi non, efficitur tellus.
+
+    Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Phasellus ac sem odio. 
+    </p>
+</div>
